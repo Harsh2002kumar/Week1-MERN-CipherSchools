@@ -1,0 +1,11 @@
+git config --global user.name "Harsh2002kumar"
+
+git config --global user.email "mharshkumarpandey2002@gmail.com"
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Harsh2002kumar/MERN_WEEKLY_TEST.git
+git push -u origin main
+

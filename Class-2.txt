@@ -1,0 +1,11 @@
+git --user
+git --version
+pwd
+cd GIT
+git init
+
+git status
+git commit -m "third commit"
+git add index.html style.css
+git commit -m "added style.css"
+git log --online
